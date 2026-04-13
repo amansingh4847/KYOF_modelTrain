@@ -1,0 +1,40 @@
+description: Ultralytics best model trained on data.yaml
+author: Ultralytics
+date: '2026-04-13T19:21:09.766282'
+version: 8.4.37
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Banana
+  1: aloo_gobi
+  2: aloo_matar
+  3: biryani
+  4: chapati
+  5: chole
+  6: chutney
+  7: dal
+  8: dal_makhani
+  9: dosa
+  10: eggs
+  11: idli
+  12: naan
+  13: orange
+  14: paneer_curry
+  15: paratha
+  16: pav
+  17: puri
+  18: rice
+args:
+  batch: 1
+  fraction: 1.0
+  half: false
+  int8: false
+  nms: false
+channels: 3
+end2end: false
