@@ -1,6 +1,6 @@
 # 🍽️ KYOF – Know Your Own Food (AI Model)
 
-## 🚀 Overview
+## Overview
 
 KYOF (Know Your Own Food) is an AI-powered food detection system built using YOLOv8.
 This project detects Indian food items like **Idli, Dosa, Banana, Chapati, Orange, Chutney**, etc., from images.
@@ -100,8 +100,7 @@ This model will be integrated into a Flutter app for real-time food detection us
 
 ## 👨‍💻 Author
 
-Developed by Aman 🚀
-AI Enthusiast | Flutter Developer
+Developed by Aman 
 
 ---
 
