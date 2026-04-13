@@ -4,6 +4,7 @@
 
 KYOF (Know Your Own Food) is an AI-powered food detection system built using YOLOv8.
 This project detects Indian food items like **Idli, Dosa, Banana, Chapati, Orange, Chutney**, etc., from images.
+To detect images run : yolo task=detect mode=predict model=runs/detect/train/weights/best.pt source="test1.jpeg"
 
 ---
 
